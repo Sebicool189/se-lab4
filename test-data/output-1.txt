@@ -1,0 +1,3 @@
+# Elvárt: a primary torpedótárból sikeresen lő
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO

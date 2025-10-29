@@ -1,0 +1,3 @@
+# Teszt 6: ALL mód – csak az egyik tárban van torpedó
+GT4500,0,0,10,0
+TORPEDO,ALL

@@ -1,0 +1,3 @@
+# Teszt 5: ALL mód – mindkét torpedótár lő
+GT4500,10,0,10,0
+TORPEDO,ALL
