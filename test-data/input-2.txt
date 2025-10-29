@@ -1,0 +1,4 @@
+# Teszt 2: váltott lövés – második SINGLE lövéskor secondary tárból lő
+GT4500,10,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
