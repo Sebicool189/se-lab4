@@ -1,2 +1,2 @@
 SUCCESS  # <- GT4500 létrejött
-FAILURE  # <- nincs torpedó, nem tud lőni
+FAIL  # <- nincs torpedó, nem tud lőni

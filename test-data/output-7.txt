@@ -1,2 +1,2 @@
 SUCCESS  # <- GT4500
-FAILURE  # <- nincs mit lőni
+FAIL  # <- nincs mit lőni
